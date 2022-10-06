@@ -7,6 +7,7 @@
 
 
 <h3>Languages & Tools I Use:</h3> 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="vscode" width="35" height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="vscode" width="35" height="35"/> 
 </p>
