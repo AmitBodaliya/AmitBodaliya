@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi, I’m Amit Bodaliya</h1> 
+<h2 align="center">Android Developer</h2>  
+   
+
+➢ I love creating new things<br>
+ 
+
+
+<h3>Languages & Tools I Use:</h3> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="vscode" width="35" height="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="vscode" width="35" height="35"/> 
+</p>
+ 
+
+
 
 <!--
 **AmitBodaliya/AmitBodaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
