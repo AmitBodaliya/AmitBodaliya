@@ -2,11 +2,11 @@
 <h3 align="center">Android & Kotlin Multiplatform (KMP) Developer</h3>
 
 <p align="center">
-  <a href="https://amitbhoudler.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:amitbhoudler@gmail.com">📧 Email</a> •
-  <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID" target="_blank">📱 Play Store</a> •
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">💻 LeetCode</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">🔗 LinkedIn</a>
+  <a href="https://amitbodaliya.com" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:amitbodaliyadev@gmail.com">📧 Email</a> •
+  <a href="[https://play.google.com/store/apps/dev?id=YOUR_DEV_ID](https://play.google.com/store/apps/dev?id=8441030182648980706&hl=en_IN)" target="_blank">📱 Play Store</a> •
+  <a href="https://leetcode.com/u/amitbodaliya" target="_blank">💻 LeetCode</a> •
+  <a href="https://www.linkedin.com/in/amitbodaliya" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -28,12 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -51,13 +53,26 @@
 
 ### 📱 Featured Projects
 
-- **ARM 313 (Islam 313)** – Android & iOS (KMP)  
-  Announcement system, compass, Firebase auth, FCM, AdMob  
-  🔗 https://play.google.com/store/apps/details?id=org.zydenlabs.islam313
-
 - **Android Launcher App**  
   Minimal launcher with custom UI/UX  
   ⭐ 10K+ downloads | 4.1★ rating
+ 
+- **Parent–Child Control App (Android & iOS)**  
+A production-ready parental control solution enabling parents to monitor, manage, and secure child devices in real time.
+
+🔹 **Key Features**
+- Remote device lock & scheduled usage control  
+- Live location tracking with geofencing & history  
+- App usage monitoring & selective app locking  
+- Night mode restrictions & school-time schedules  
+- Call monitoring, emergency alerts & device status  
+- Multi-child management from a single parent account  
+
+🔹 **Technical Highlights**
+- Child App: Native Android (Kotlin, Jetpack Compose, XML)  
+- Parent App: Kotlin Multiplatform (Android & iOS)  
+- Firebase Authentication, Firestore, FCM  
+- Accessibility, Device Admin & Background Services  
 
 ---
 
@@ -72,9 +87,9 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **amitbhoudler@gmail.com**
-- 📞 Phone: **+91-XXXXXXXXXX**
-- 🌐 Portfolio: **https://amitbhoudler.com**
+- 📧 Email: **amitbodaliyadev@gmail.com**
+- 📞 Phone: **+91-8570983776**
+- 🌐 Portfolio: **https://amitbodaliya.com**
 
 ---
 
