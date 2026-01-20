@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://amitbodaliya.com" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:amitbodaliyadev@gmail.com">📧 Email</a> •
-  <a href="[https://play.google.com/store/apps/dev?id=YOUR_DEV_ID](https://play.google.com/store/apps/dev?id=8441030182648980706&hl=en_IN)" target="_blank">📱 Play Store</a> •
+  <a href="https://play.google.com/store/apps/dev?id=8441030182648980706" target="_blank">📱 Play Store</a> •
   <a href="https://leetcode.com/u/amitbodaliya" target="_blank">💻 LeetCode</a> •
   <a href="https://www.linkedin.com/in/amitbodaliya" target="_blank">🔗 LinkedIn</a>
 </p>
@@ -60,26 +60,11 @@
 - **Parent–Child Control App (Android & iOS)**  
 A production-ready parental control solution enabling parents to monitor, manage, and secure child devices in real time.
 
-🔹 **Key Features**
-- Remote device lock & scheduled usage control  
-- Live location tracking with geofencing & history  
-- App usage monitoring & selective app locking  
-- Night mode restrictions & school-time schedules  
-- Call monitoring, emergency alerts & device status  
-- Multi-child management from a single parent account  
-
-🔹 **Technical Highlights**
-- Child App: Native Android (Kotlin, Jetpack Compose, XML)  
-- Parent App: Kotlin Multiplatform (Android & iOS)  
-- Firebase Authentication, Firestore, FCM  
-- Accessibility, Device Admin & Background Services  
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitBodaliya&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitBodaliya&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
